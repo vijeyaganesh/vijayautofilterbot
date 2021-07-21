@@ -6,19 +6,18 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
+Made to work on @requestpage by my admin order @spamreply
+Join @tamillrockersofficial
 For More Details Click Help Button Below..
-<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/JNS_BOTS">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
+<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/spamreply">VJ Ganesh</a>
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Add Me To Group And Make Admin
+-> Add Me To Desired Channel
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -44,15 +43,15 @@ For More Details Click Help Button Below..
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
 
 
-<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>        
+<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/tamillrockersofficial">Movies</a>        
 """
     
     ABOUT_TEXT = """
-🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/JNS_AUTOFILTER_BOT">JNS AUTOFILTER BOT</a>
+🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/spamreply">VJ Ganesh</a>
 
-📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
+📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/tamillrockersofficial">Movies</a>
 
-👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/jintons">JINTO NS</a>❤
+👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/spamreply">VJ Ganesh</a>❤
 
 📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : <a href="https://www.python.org/">Python3</a>
 
