@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 Made to work on @requestpage by my admin order @spamreply
-Join @tamillrockersofficial
+Join @Tamillrockers_official
 For More Details Click Help Button Below..
 <b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/spamreply">VJ Ganesh</a>
 </i>"""    
@@ -43,13 +43,13 @@ For More Details Click Help Button Below..
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
 
 
-<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/tamillrockersofficial">Movies</a>        
+<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/tamillrockers_official">Movies</a>        
 """
     
     ABOUT_TEXT = """
 🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/spamreply">VJ Ganesh</a>
 
-📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/tamillrockersofficial">Movies</a>
+📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/tamillrockers_official">Movies</a>
 
 👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/spamreply">VJ Ganesh</a>❤
 
