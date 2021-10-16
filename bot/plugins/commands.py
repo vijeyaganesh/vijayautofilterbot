@@ -66,7 +66,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Movies', url="https://t.me/tamillrockersofficial"
+                                    'Movies', url="https://t.me/tamillrockers_official"
                                 )
                         ]
                     ]
@@ -85,7 +85,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Movies', url="https://t.me/tamillrockersofficial"
+                                    'Movies', url="https://t.me/tamillrockers_official"
                                 )
                         ]
                     ]
@@ -104,7 +104,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Movies', url="https://t.me/tamillrockersofficial"
+                                    'Movies', url="https://t.me/tamillrockers_official"
                                 )
                         ]
                     ]
@@ -120,7 +120,7 @@ Join on our channel to get movies ✅
         InlineKeyboardButton('Developers', url='https://t.me/spamreply'),
         InlineKeyboardButton('Source Code 🧾', url ='https://t.me/https://t.me/githubsoursecode')],                               
      [
-        InlineKeyboardButton('Support 🛠', url='https://t.me/tamillrockersofficial')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/tamillrockers_official')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
